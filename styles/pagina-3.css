@@ -1,0 +1,76 @@
+*
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+html
+{
+    background-color:rgb(243, 234, 184);
+}
+.titulo
+{
+    background-color: rgb(202, 192, 134);
+    padding: 2px 2px;
+    text-align: center;
+}
+.linha
+{
+    color: black;
+    background-color: black;
+    padding: 1px;
+}
+
+.tecnicos
+{
+    background-color: rgb(202, 192, 134);
+}
+
+.canalvideos
+{
+    background-color: rgb(202, 192, 134);
+}
+
+.btn
+{
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    padding: 2px 2px 2px;
+    border-style: none;
+    position: fixed;
+    text-decoration: none;
+    color: white;
+    margin-left: 40%;
+    padding: 8px 8px;
+    background-color: black;
+}
+
+.yasuo
+{
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    padding: 2px 2px 2px;
+    border-style: none;
+    position: fixed;
+    text-decoration: none;
+    color: white;
+    margin-left: 970px;
+    padding: 8px 8px;
+    background-color: black;
+}
+
+
+.btn:hover
+{
+    background-color:  rgb(202, 192, 134);
+}
+.bot
+{
+    text-align: center;
+    color: black;
+   background-color:  rgb(202, 192, 134);
+   position: fixed;
+   bottom: 0 ;
+   width: 100%;
+}
+
