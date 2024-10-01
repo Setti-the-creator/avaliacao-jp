@@ -29,6 +29,11 @@ html
     background-color: rgb(202, 192, 134);
 }
 
+.video
+{
+   width: 400px; 
+}
+
 .btn
 {
     border-radius: 5px;
@@ -36,7 +41,6 @@ html
     font-style: italic;
     padding: 2px 2px 2px;
     border-style: none;
-    position: fixed;
     text-decoration: none;
     color: white;
     margin-left: 40%;
@@ -51,7 +55,6 @@ html
     font-style: italic;
     padding: 2px 2px 2px;
     border-style: none;
-    position: fixed;
     text-decoration: none;
     color: white;
     margin-left: 970px;
@@ -72,5 +75,19 @@ html
    position: fixed;
    bottom: 0 ;
    width: 100%;
+}
+
+
+@media (max-width: 490px) {
+    .yasuo
+    {
+        
+         margin-left: 150px;
+    }
+
+    .btn
+    {
+        margin-left: 1px;
+    }
 }
 

@@ -27,8 +27,9 @@ html
     background-color: rgb(120, 120, 255);
     padding: 2px 2px;
     text-decoration: none;
-    border-radius: 1px;
+    border-radius: 5px;
     border-color: azure;
+    color: black;
 }
 
 .algo
@@ -36,4 +37,16 @@ html
     color: black;
     background-color: rgb(255, 255, 255);
     box-shadow: 2px 2px 14px;
+}
+
+
+
+
+@media (max-width: 490px) {
+  #sim
+    {
+        width: 490px;
+        height: 400px;
+    }
+  
 }
